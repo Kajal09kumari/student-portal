@@ -6,7 +6,7 @@ A modern student management portal with authentication, user dashboard, and data
 
 ## 🌐 Live Demo
 
-[View Live on Vercel](https://student-portal-yourusername.vercel.app)
+[View Live on Vercel](https://student-portal-crx1.vercel.app/users)
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ A modern student management portal with authentication, user dashboard, and data
 
 **Frontend**
 
-- React.js (v18)
+- React.js (v20)
 - React Router (v6)
 - Tailwind CSS
 - Framer Motion
@@ -65,6 +65,6 @@ A modern student management portal with authentication, user dashboard, and data
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Kajal09kumari/StudentPortel
+git clone https://github.com/Kajal09kumari/student-portal
 cd StudentPortal
 ```
