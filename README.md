@@ -6,7 +6,7 @@ A modern student management portal with authentication, user dashboard, and data
 
 ## 🌐 Live Demo
 
-[View Live on Vercel](https://student-portal-crx1.vercel.app/users)
+[View Live on Vercel](https://student-portal-five-theta.vercel.app/)
 
 ## ✨ Features
 
